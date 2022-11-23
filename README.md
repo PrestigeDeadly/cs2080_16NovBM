@@ -1,7 +1,6 @@
 # cs2080_16NovBM
 
-#I dont know how to move files from the code space into my repository. I do not know
-#how to do anything on github so i will just be copying and pasting the docker file.
+#I do not know how to use github so I am just copying my docker file into the readme.
 
 FROM ubuntu
 RUN apt-get -y update
