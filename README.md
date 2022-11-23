@@ -8,5 +8,3 @@ RUN apt install -y zsh
 RUN curl -fsSL https://code-server.dev/install.sh | sh 
 EXPOSE 80
 
-**Command to run**
-docker run -itd -p 80 --name vsCode ~/context
